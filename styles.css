@@ -1,0 +1,12 @@
+body {
+  background-color: #1d1d1d; /* 75% dark gray */
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  color: white; /* Set text color to white */
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+  height: 100vh; /* Make sure the body takes up the full viewport height */
+}
+
+.h1 {
+}
